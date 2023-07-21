@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.class
+*.jar
+*.war
+*.ear
+target/
+mvnw
+mvnw.cmd
+gradle/
+build/
+src/test/
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+application.properties
+*.log
+logs/
+*.tmp
+*.temp
+Thumbs.db
+*.bak
+*.backup
